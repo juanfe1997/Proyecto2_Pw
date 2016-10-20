@@ -1,0 +1,19 @@
+.container {
+	color:black;
+	background-color:#D0C529;
+	font-family:cursive; 
+
+}
+.container h1{
+	font-weight: bold;
+}
+.menu{
+	padding-bottom:70px;	     		
+}
+footer{
+	background-color:#D0C529; 
+	font-weight:bold;
+	color:black;
+	font-family:cursive;
+	
+}
